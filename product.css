@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    margin-top: 150px;
+}
+.pro{
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    margin: top;
+    justify-content: center;
+    display: flex;
+    padding: 0px ;
+    text-align: center;
+}
+.imag
+{
+    background-color: black;
+    background-position: 20px;
+    padding-top: 30px;
+    padding-bottom: 220px;
+    padding-left: 20px;
+    padding-right: 20px;
+   border-radius: 10px;
+}
+.button{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    height:50px;
+    width:500px;
+    padding: 10px 40px;
+    gap: 20px;
+    size: 30px;
+}
+#b1{
+    border-radius: 10px;
+    color: white;
+    background-color: firebrick;
+    height: 30px;
+    width: 100px;
+}
+#b2{
+    border-radius: 10px;
+    color: white;
+    background-color: firebrick;
+    height: 30px;
+    width: 100px;
+}
+#b1:hover{
+    background-color: white;
+   color: black;
+}
+#b2:hover{
+    background-color: white;
+   color: black;
+}
+.des{
+    color: white;
+}
